@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".AddContant"
+
+    >
+
+    <item android:id="@+id/contactBtn"
+        android:title="@string/menu_contact"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/randomBtn"
+        android:title="@string/menu_random"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/backgroundBtn"
+        android:title="@string/menu_background"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+</menu>

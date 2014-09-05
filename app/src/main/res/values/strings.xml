@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Phonebook</string>
+    <string name="title_section1">Add Contact</string>
+    <string name="title_section2">Random number</string>
+    <string name="title_section3">Background color</string>
+    <string name="headline_add_contact">Fyll i kontaktinformation </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_contact">Lägg till kontakt</string>
+    <string name="menu_random">Slumpa fram nummer</string>
+    <string name="menu_background">Ändra bakgrund</string>
+    <string name="label_name">Namn*</string>
+    <string name="label_phone_number">Telefonnummer</string>
+    <string name="label_email">Email</string>
+    <string name="add_contact_btn">Lägg till kontakt</string>
+    <string name="title_activity_random_number">RandomNumber</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="generateRandomBtn">Slumpa fram ett nummer</string>
+    <string name="title_activity_change_background">ChangeBackgroundActivity</string>
+    <string name="change_bg_btn">Ändra bakgrund</string>
+
+</resources>
